@@ -11,13 +11,14 @@ This project is a voice-activated assistant built using Python. It utilizes the 
 - **Brochure Download**: Downloads the Tata Nexon brochure in PDF format.
 - **Competitive Product Suggestions**: Suggests other cars in the market.
 
-To run the project, install the following Python libraries:
+To run the project, install the following Python libraries and run :
 
 ```
-run main.py
+main.py
 ```
-# voice commands
-# Refer this
+# For voice commands
+Refer this:
+
 ```
 def respond(voice_data):
     """Process user commands."""
